@@ -1,0 +1,6 @@
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\bin\COMP397-CreateJSBoilerPlate.dll.config
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\bin\COMP397-CreateJSBoilerPlate.dll
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\bin\COMP397-CreateJSBoilerPlate.pdb
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\obj\Debug\COMP397-CreateJSBoilerPlate.dll
+C:\Users\Gursharnbir\GitHub\SlotMachine\SlotMachine\obj\Debug\COMP397-CreateJSBoilerPlate.pdb
